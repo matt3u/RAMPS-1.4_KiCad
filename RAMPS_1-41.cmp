@@ -1,0 +1,619 @@
+Cmp-Mod V01 Created by Cvpcb (2015-02-06 BZR 5410)-product   date = Mon 09 Feb 2015 04:12:04 PM PST
+
+BeginCmp
+TimeStamp = /619A20A9;
+Reference = 5V50;
+ValeurCmp = PINHD-1X1;
+IdModule  = ADAFRUIT_1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2171;
+Reference = 12V-AUX50;
+ValeurCmp = M02PTH;
+IdModule  = SPARKFUN_1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2239;
+Reference = A-OUT50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2301;
+Reference = C1;
+ValeurCmp = CPOL-US153CLV-0405;
+IdModule  = ADAFRUIT_153CLV-0405;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A23C9;
+Reference = C2;
+ValeurCmp = C-EUC0805;
+IdModule  = RESISTOR_C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2491;
+Reference = C3;
+ValeurCmp = CPOL-US153CLV-0605;
+IdModule  = ADAFRUIT_153CLV-0605;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2559;
+Reference = C4;
+ValeurCmp = CPOL-US153CLV-0605;
+IdModule  = ADAFRUIT_153CLV-0605;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2621;
+Reference = C5;
+ValeurCmp = CPOL-US153CLV-0405;
+IdModule  = ADAFRUIT_153CLV-0405;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A26E9;
+Reference = C6;
+ValeurCmp = CPOL-US153CLV-0605;
+IdModule  = ADAFRUIT_153CLV-0605;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A27B1;
+Reference = C7;
+ValeurCmp = CPOL-US153CLV-0605;
+IdModule  = ADAFRUIT_153CLV-0605;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2879;
+Reference = C8;
+ValeurCmp = CPOL-US153CLV-0405;
+IdModule  = ADAFRUIT_153CLV-0405;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2941;
+Reference = C9;
+ValeurCmp = CPOL-US153CLV-0605;
+IdModule  = ADAFRUIT_153CLV-0605;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2A09;
+Reference = C10;
+ValeurCmp = CPOL-US153CLV-0605;
+IdModule  = ADAFRUIT_153CLV-0605;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2AD1;
+Reference = D1;
+ValeurCmp = 1N4004;
+IdModule  = DIODE_DO41-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2B99;
+Reference = D2;
+ValeurCmp = 1N4004;
+IdModule  = DIODE_DO41-10;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2C61;
+Reference = E0-MOT50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2D29;
+Reference = E1-MOT50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2DF1;
+Reference = F1;
+ValeurCmp = PTCFUSE;
+IdModule  = REPRAPJR_MFR500;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A2EB9;
+Reference = F2;
+ValeurCmp = PTCFUSEMFR1100;
+IdModule  = REPRAPJR_MFR1100;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A3EBD;
+Reference = I2C50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A3F85;
+Reference = JP2;
+ValeurCmp = PINHD-2X3;
+IdModule  = PINHEAD_2X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A404D;
+Reference = JP3;
+ValeurCmp = PINHD-2X3;
+IdModule  = PINHEAD_2X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A4115;
+Reference = JP4;
+ValeurCmp = PINHD-2X3;
+IdModule  = PINHEAD_2X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A41DD;
+Reference = JP5;
+ValeurCmp = PINHD-2X3;
+IdModule  = PINHEAD_2X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A42A5;
+Reference = JP6;
+ValeurCmp = PINHD-2X3;
+IdModule  = PINHEAD_2X03;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A436D;
+Reference = JP7;
+ValeurCmp = M06SIP;
+IdModule  = SPARKFUN_1X06;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A4435;
+Reference = LED1;
+ValeurCmp = LEDCHIP-LED0805;
+IdModule  = LED_CHIP-LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A44FD;
+Reference = LED2;
+ValeurCmp = LEDCHIP-LED0805;
+IdModule  = LED_CHIP-LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A45C5;
+Reference = LED3;
+ValeurCmp = LEDCHIP-LED0805;
+IdModule  = LED_CHIP-LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A468D;
+Reference = LED4;
+ValeurCmp = LEDCHIP-LED0805;
+IdModule  = LED_CHIP-LED0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A4755;
+Reference = LOGO1;
+ValeurCmp = OSHW_LOGO_6MILX0100-NT;
+IdModule  = OSHW_OSHW_6X100_NOTEXT;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A5B41;
+Reference = PS-ON50;
+ValeurCmp = PINHD-1X1;
+IdModule  = ADAFRUIT_1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A5C09;
+Reference = Q1;
+ValeurCmp = IRF512;
+IdModule  = TRANSISTOR-POWER_TO220BV;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A5CD1;
+Reference = Q2;
+ValeurCmp = IRF512;
+IdModule  = TRANSISTOR-POWER_TO220BV;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A5D99;
+Reference = Q3;
+ValeurCmp = IRF512;
+IdModule  = TRANSISTOR-POWER_TO220BV;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A5E61;
+Reference = R1;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A5F29;
+Reference = R2;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A5FF1;
+Reference = R3;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A60B9;
+Reference = R4;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6181;
+Reference = R5;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6249;
+Reference = R6;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6311;
+Reference = R7;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A63D9;
+Reference = R8;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A64A1;
+Reference = R9;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6569;
+Reference = R10;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6631;
+Reference = R11;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A66F9;
+Reference = R12;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A67C1;
+Reference = R13;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6889;
+Reference = R14;
+ValeurCmp = R-US_M0805;
+IdModule  = RESISTOR_M0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6951;
+Reference = R15;
+ValeurCmp = R-US_R0805;
+IdModule  = RESISTOR_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6A19;
+Reference = R16;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6AE1;
+Reference = R17;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6BA9;
+Reference = R18;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6C71;
+Reference = R19;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6D39;
+Reference = R20;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6E01;
+Reference = R21;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6EC9;
+Reference = R22;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A6F91;
+Reference = R23;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7059;
+Reference = R24;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7121;
+Reference = R25;
+ValeurCmp = R-US_R0805;
+IdModule  = ADAFRUIT_R0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A71E9;
+Reference = S1;
+ValeurCmp = 31-XX;
+IdModule  = SWITCH-OMRON_B3F-31XX;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A72B1;
+Reference = SER1;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7379;
+Reference = SER2;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7441;
+Reference = SER3;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7509;
+Reference = SER4;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A75D1;
+Reference = SERIAL50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7699;
+Reference = U$2;
+ValeurCmp = 282837-6;
+IdModule  = REPRAPJR_282837-6;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7761;
+Reference = U$3;
+ValeurCmp = M04X2;
+IdModule  = SPARKFUN_2X4;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7829;
+Reference = U$4;
+ValeurCmp = A4988BREAKOUT;
+IdModule  = REPRAPJR_A4988BREAKOUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A78F1;
+Reference = U$5;
+ValeurCmp = A4988BREAKOUT;
+IdModule  = REPRAPJR_A4988BREAKOUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A79B9;
+Reference = U$6;
+ValeurCmp = A4988BREAKOUT;
+IdModule  = REPRAPJR_A4988BREAKOUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7A81;
+Reference = U$7;
+ValeurCmp = A4988BREAKOUT;
+IdModule  = REPRAPJR_A4988BREAKOUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7B49;
+Reference = U$8;
+ValeurCmp = A4988BREAKOUT;
+IdModule  = REPRAPJR_A4988BREAKOUT;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7C11;
+Reference = U$9;
+ValeurCmp = M18_;
+IdModule  = SPARKFUN_1X18;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7CD9;
+Reference = U$10;
+ValeurCmp = M05X2;
+IdModule  = REPRAPJR_2X5;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7DA1;
+Reference = U1;
+ValeurCmp = ARDUINO_MEGA_SHIELD;
+IdModule  = REPRAPJR_ARDUINO_MEGA_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7E69;
+Reference = VCC50;
+ValeurCmp = PINHD-1X1;
+IdModule  = ADAFRUIT_1X01;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7F31;
+Reference = X+50;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A7FF9;
+Reference = X-50;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A80C1;
+Reference = X-MOT50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A8189;
+Reference = X4;
+ValeurCmp = MSTBA4;
+IdModule  = CON-PHOENIX-508_MSTBA4;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A837D;
+Reference = Y+50;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A8445;
+Reference = Y-50;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A850D;
+Reference = Y-MOT50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A85D5;
+Reference = Z+50;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A869D;
+Reference = Z-50;
+ValeurCmp = 3PIN-HEADER;
+IdModule  = ULTIMACHINE_3PIN-HEADER;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A8765;
+Reference = Z-MOT1;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+BeginCmp
+TimeStamp = /619A882D;
+Reference = Z-MOT50;
+ValeurCmp = PINHD-1X4;
+IdModule  = REPRAPJR_1X04;
+EndCmp
+
+EndListe

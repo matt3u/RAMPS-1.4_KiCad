@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name RAMPS_1-41)(type Legacy)(uri ${KIPRJMOD}/RAMPS_1-41.lib)(options "")(descr ""))
+)
